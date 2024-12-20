@@ -2,7 +2,7 @@
 
 Robust tensor subspace learning for incomplete multi-view clustering
 
-## Run
+## Running
 
 demo_RTSL.m
 
